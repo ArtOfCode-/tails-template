@@ -58,6 +58,7 @@
         "@types/stripe": "^6.31.4",
         "node-gyp": "^3.6.2",
         "nodemon": "^1.19.4",
-        "npm-watch": "^0.6.0"
+        "npm-watch": "^0.6.0",
+        "typescript": "^3.7.2"
     }
 }
